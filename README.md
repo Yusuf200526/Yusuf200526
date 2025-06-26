@@ -21,13 +21,16 @@
 - **Platform:** [Programming Advices](https://programmingadvices.com/)
 
 📘 **Current Roadmap Progress**  
-`███████████-------------` **11 / 24 Courses Completed**
+
+<div style="display: flex; align-items: center; width: 100%; max-width: 600px; border: 1px solid #4CAF50; border-radius: 8px; overflow: hidden;">
+  <div style="width: 45.8%; background-color: #4CAF50; height: 20px;"></div>
+  <div style="width: 54.2%; background-color: #ddd; height: 20px;"></div>
+</div>
+<p>11 / 24 Courses Completed</p>
 
 <details>
   <summary>View Roadmap Image</summary>
-
-  <!-- Replace the link below with your actual roadmap image link -->
-  <img src="YOUR_ROADMAP_IMAGE_LINK_HERE" alt="Roadmap" width="600">
+  <img src="https://cdn.fs.teachablecdn.com/vQwPc0bSvSVEaPKkxodz" alt="Programming Roadmap" width="600">
 </details>
 
 ---
@@ -35,6 +38,3 @@
 <h2 align="left">📫 Connect with me:</h2>
 
 [![Telegram Badge](https://img.shields.io/badge/-@yusufaboali-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/yusufaboali)](https://t.me/yusufaboali)
-
----
-
